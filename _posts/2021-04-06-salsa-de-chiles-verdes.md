@@ -5,7 +5,7 @@ layout: post
 
 # Zutaten
 
-- 150 g Jalapenos, Stiel entfernt, der Länge nach in Hälfte
+- 150 g Jalapeños, Stiel entfernt, der Länge nach in Hälfte
 - 1/2 medium Zwiebel in 3 cm Quader
 - 3 Knoblauchzehen geschält und ganz
 - 1 gestrichener TL Salz
@@ -14,7 +14,7 @@ layout: post
 
 # Zubereitung
 
-1. Jalapenos in Pfanne in 1 EL Öl 5 min bei mittlerer Hitze braten, Prise Salz dran, noch 2 min braten.
+1. Jalapeños in Pfanne in 1 EL Öl 5 min bei mittlerer Hitze braten, Prise Salz dran, noch 2 min braten.
 2. Zwiebel und Knoblauch dazu geben, 10 min braten.
 Alles soll nicht zu braun werden, die Endfarbe ist hellgrün. Leichte goldige Bräune erwünscht.
 3. Alles aus der Pfanne raus und in Püriersituation bringen.
