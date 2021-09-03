@@ -6,7 +6,7 @@ layout: post
 ## Zutaten
 
 - 12 große Champignons
-- 3 Knoblauchzehen
+- 2 Knoblauchzehen
 - 1 1/2 EL Schmand
 - 75g Fetakäse
 - 1 Handvoll frische glatte Petersilie (2 gehäufte EL gehackt)
