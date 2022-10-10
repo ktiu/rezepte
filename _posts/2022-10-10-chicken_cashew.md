@@ -5,35 +5,51 @@ layout: post
 
 ## Zutaten
 
-* 250g Hühnerfleisch
-* 250g Austernpilze
-* 80g Cashewkerne
-* 2 Spitzpaprikas
-* 2 Frühlingszwiebeln
-* 3 große getrocknete Chilis
-* 3 Knoblauchzehen
+* Hühnerfleisch (250g)
+* Austernpilze (250g)
+* Cashewkerne (80g)
+* Spitzpaprikas (2 Stück)
+* Frühlingszwiebeln (2 Stück)
+* Große getrocknete Chilis (3 Stück)
+* Knoblauch ( (3 Zehen)
+* Neutrales, hitzebeständiges Planzenöl (3 EL)
 
 Für die Sauce:
 
-* 3 EL Sesamöl
-* 2 EL dunkle Sojasauce
-* 1 EL Tamarindpaste
-* 1 EL Austernsauce
-* 1 TL Zucker
-* 1 TL weißer Pfeffer
+* Sesamöl (3 EL)
+* Dunkle Sojasauce (2 EL)
+* Tamarindpaste (1 EL)
+* Austernsauce (1 EL)
+* Zucker (1 TL)
+* Weißer Pfeffer (1 TL)
 
 ## Vorbereitung
 
-* Sauce anrühren
-* Fleisch, Pilze und Paprikas getrennt in mundgerechte Häppchen schneiden
-* Frühlingszwiebeln in 2cm lange Stücke schneiden
-* Knoblauch fein würfeln
+1. Anrühren:
+   * Sauce
+2. Getrennt zu mundgerechten Häppchen schnippeln:
+   * Fleisch
+   * Pilze
+   * Paprikas
+   * Frühlingszwiebeln
+3. Im Mörser stampfen oder fein würfeln:
+   * Knoblauch
 
 ## Zubereitung
 
-1. Einen guten Schuss neutrales Pflanzenöl in Wok stark erhitzen (bleibt durchgehend sehr heiß)
-2. Fleisch und Pilze schnell anbraten
-3. Knoblauch und getrocknete Chilis unterheben
-4. Zügig Cashews, Paprika und Hälfte der Sauce hinzugeben, unter Rühren erhitzen
-4. Rest der Sauce unterheben
-4. Frühlingszwiebeln unterrühren und Wok direkt vom Feuer nehmen
+1. In Wok stark erhitzen:
+   * Pflanzenöl
+2. Schnell und heiß anbraten:
+   - Fleisch
+   - Pilze
+3. Unter Hitze unterheben:
+   - Knoblauch
+   - Getrocknete Chilis
+4. Unter Hitze unterheben, komplett erhitzen:
+   - Cashews
+   - Paprika
+   - Hälfte der Sauce
+4. Unter Hitze unterheben, komplett erhitzen:
+   - Rest der Sauce
+4. Wok vom Feuer nehmen, kurz unterheben:
+   - Frühligszwiebeln
