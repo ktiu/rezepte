@@ -9,24 +9,28 @@ layout: post
 
 # Zutaten
 
-- Korianderwurzel (2 EL)
-- Zitronengras (1 Stange)
-- (Alter) Galgant (1 EL)
-- Kleine rote Zwiebeln (30g)
-- Kleine Knoblauchzehen (10g)
-- Große Knoblauchzehen (10g)
-- Getrocknete kleine Chilis (10g)
-- Getrocknete große Chilis (20g)
-- Weiße Pfefferkörner (2 TL)
-- Shrimppaste (1 EL)
-- Salz (1 TL)
-- Schale einer halben Makrut-Limette
-- Kurkuma (1 EL)
+- Getrocknete Chlis (16g mit Kernen und allem)
+  - kleine Chilis (4g)
+  - mittlere Chilis (7g)
+  - große Chilis (5g)
+- Korianderwurzel (3g)
+- Makrut-Limettenschale (4g)
+- Zitronengras (1 Stange, 16g)
+- (Alter) Galgant (15g)
+- Kurkuma (7g)
+- Kleine rote Zwiebeln (19g geschält)
+- Große Knoblauchzehen (10g geschält)
+- Kleine Knoblauchzehen (8g)
+- Weiße Pfefferkörner (4g)
+- Salz (4g)
+- Shrimppaste (7g)
 
 # Vorbereitung
 
 1. Entkernen und Einweichen (30 Min.):
    - Chilis
+2. Anrösten:
+   - Pfefferkörner
 3. Klein hacken:
    - Zitronengras
    - Korianderwurzeln
