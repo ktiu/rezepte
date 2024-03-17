@@ -1,5 +1,6 @@
 ---
 title: Gebratener Reis
+layout: post
 ---
 
 # Zutaten
