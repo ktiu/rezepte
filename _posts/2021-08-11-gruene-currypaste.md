@@ -10,7 +10,7 @@ layout: post
 # Zutaten
 
 - Kleine grüne ("bird's eye") Chilis (10g)
-- Mittelgroße grüne Chilis (10g)
+- Mittelgroße grüne Chilis (พริกชี้ฟ้า) (10g)
 - Korianderwurzel (2 EL)
 - Makrut-Limettenschale (von 1 St.)
 - (Alter) Galgant (1 EL)
