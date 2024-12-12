@@ -9,16 +9,19 @@ layout: post
 
 # Zutaten
 
-- Kleine grüne ("bird's eye") Chilis (20g)
+- Kleine grüne ("bird's eye") Chilis (10g)
+- Mittelgroße grüne Chilis (10g)
 - Korianderwurzel (2 EL)
 - Makrut-Limettenschale (von 1 St.)
 - (Alter) Galgant (1 EL)
+- Kurkuma (1 EL)
 - Zitronengras (1 Stange)
 - Kleine rote Zwiebeln (30g)
 - Kleine Knoblauchzehen (20g)
 - Shrimppaste (1 EL)
 - Kreuzkümmel (2 TL)
 - weiße Pfefferkörner (2 TL)
+- Koriandersamen (1 EL)
 - Salz (1 TL)
 
 # Vorbereitung
@@ -30,6 +33,7 @@ layout: post
    - Zitronengras
    - Korianderwurzeln
    - Galgant
+   - Kurkuma
    - Limettenschale
 
 # Zubereitung
@@ -41,6 +45,8 @@ layout: post
    - Schale Makrut-Limette
    - Zitronengras
    - Korianderwurzeln
+   - Galgant
+   - Kurkuma
 3. Hinzufügen und zu Paste verstampfen:
    - Koriandersamen
    - Kreuzkümmel
