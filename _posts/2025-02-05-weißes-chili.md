@@ -15,8 +15,7 @@ layout: post
 - Gekochte Maiskolben (2 St.)
 - Oregano (1 TL)
 - Kreuzkümmel (1 TL, gemahlen)
-- Paprikapulver (1 TL, Rauch- u./o. edelsüß)
-- Rauchpaprika (1/2 TL)
+- Paprikapulver (1 TL, Rauch-, rosenscharf u./o. edelsüß)
 - Cayennepfeffer (1/2 TL)
 - Salz (1/2 TL)
 - Schwarzer Pfeffer (1/2 TL)
@@ -46,21 +45,20 @@ layout: post
   - Mais
 3. Abgießen:
   - Bohnen
-3. Enthäuten, zerdrücken:
-  - Knoblauch
-4. Entkernen, würfeln:
-  - Paprika
-  - Jalapeños
 4. Mischen:
   - Oregano
   - Kreuzkümmel
   - Paprikapulver
-  - Rauchpaprika
   - Cayennepfeffer
   - Salz
   - Schwarzer Pfeffer
   - Koriandersamen
   - Piment
+3. Enthäuten, zerdrücken:
+  - Knoblauch
+4. Entkernen, würfeln:
+  - Paprika
+  - Jalapeños
 
 # Zubereitung
 
@@ -81,7 +79,7 @@ layout: post
 6. Toppings vorbereiten
   - Koriander grob hacken
   - Cheddar fein reiben
-  - Limette schneien
+  - Limette schneiden
 5. Eine Suppenkelle pürieren und wieder hinzugeben
 6. Einrühren:
   - Mais
